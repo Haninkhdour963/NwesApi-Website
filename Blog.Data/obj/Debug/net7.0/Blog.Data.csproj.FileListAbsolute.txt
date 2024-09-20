@@ -1,0 +1,14 @@
+E:\NwesApiWebsite\Blog.Data\bin\Debug\net7.0\Blog.Data.deps.json
+E:\NwesApiWebsite\Blog.Data\bin\Debug\net7.0\Blog.Data.runtimeconfig.json
+E:\NwesApiWebsite\Blog.Data\bin\Debug\net7.0\Blog.Data.dll
+E:\NwesApiWebsite\Blog.Data\bin\Debug\net7.0\Blog.Data.pdb
+E:\NwesApiWebsite\Blog.Data\obj\Debug\net7.0\Blog.Data.csproj.AssemblyReference.cache
+E:\NwesApiWebsite\Blog.Data\obj\Debug\net7.0\Blog.Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\NwesApiWebsite\Blog.Data\obj\Debug\net7.0\Blog.Data.AssemblyInfoInputs.cache
+E:\NwesApiWebsite\Blog.Data\obj\Debug\net7.0\Blog.Data.AssemblyInfo.cs
+E:\NwesApiWebsite\Blog.Data\obj\Debug\net7.0\Blog.Data.csproj.CoreCompileInputs.cache
+E:\NwesApiWebsite\Blog.Data\obj\Debug\net7.0\Blog.Data.dll
+E:\NwesApiWebsite\Blog.Data\obj\Debug\net7.0\refint\Blog.Data.dll
+E:\NwesApiWebsite\Blog.Data\obj\Debug\net7.0\Blog.Data.pdb
+E:\NwesApiWebsite\Blog.Data\obj\Debug\net7.0\Blog.Data.genruntimeconfig.cache
+E:\NwesApiWebsite\Blog.Data\obj\Debug\net7.0\ref\Blog.Data.dll

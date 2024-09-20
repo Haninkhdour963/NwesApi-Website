@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "Hash": "6YBmSPv9haMwxL5FhZ6bo1SXDvzcJ98qyOfVQuD3uS8=",
+  "Source": "Blog.Blazor",
+  "BasePath": "_content/Blog.Blazor",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "E:\\NwesApiWebsite\\Blog.Api\\Blog.Api.csproj",
+      "Version": 2,
+      "Source": "Blog.Api",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Blog.Blazor\\wwwroot",
+      "Source": "Blog.Blazor",
+      "ContentRoot": "E:\\NwesApiWebsite\\Blog.Blazor\\wwwroot\\",
+      "BasePath": "_content/Blog.Blazor",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "E:\\NwesApiWebsite\\Blog.Blazor\\wwwroot\\css\\site.css",
+      "SourceId": "Blog.Blazor",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\NwesApiWebsite\\Blog.Blazor\\wwwroot\\",
+      "BasePath": "_content/Blog.Blazor",
+      "RelativePath": "css/site.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\site.css"
+    }
+  ]
+}
